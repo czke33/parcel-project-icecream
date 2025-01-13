@@ -2,7 +2,7 @@
   "name": "parcel-project-icecream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://danielabadea.github.io/parcel-project-icecream/",
+  "homepage": "https://czke33.github.io/parcel-project-icecream/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-icecream/",
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielaBadea/parcel-project-icecream.git"
+    "url": "git+https://github.com/czke33/parcel-project-icecream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanielaBadea/parcel-project-icecream/issues"
+    "url": "https://github.com/czke33/parcel-project-icecream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
